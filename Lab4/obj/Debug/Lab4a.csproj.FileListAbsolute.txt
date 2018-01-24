@@ -1,0 +1,6 @@
+C:\Users\wiking\Documents\Visual Studio 2017\Projects\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\wiking\Documents\Visual Studio 2017\Projects\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\wiking\Documents\Visual Studio 2017\Projects\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\wiking\Documents\Visual Studio 2017\Projects\Lab4\Lab4\obj\Debug\Lab4a.csprojResolveAssemblyReference.cache
+C:\Users\wiking\Documents\Visual Studio 2017\Projects\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\wiking\Documents\Visual Studio 2017\Projects\Lab4\Lab4\obj\Debug\Lab4.pdb
